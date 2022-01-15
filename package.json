@@ -73,7 +73,7 @@
     "raven-js": "^3.16.1",
     "rxjs": "^6.3.3",
     "rxjs-compat": "^6.3.3",
-    "shelljs": "^0.8.2",
+    "shelljs": "^0.8.5",
     "sw-toolbox": "3.6.0",
     "zone.js": "^0.8.4",
     "cordova-ios": "~4.5.5"
